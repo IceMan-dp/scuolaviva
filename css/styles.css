@@ -10111,6 +10111,12 @@ header.masthead {
   background-size: 100vh!important;
   height: 100vh;
 }
+
+@supports (-webkit-touch-callout: inherit) {
+  header.masterhead {
+  background-attachment: scroll;
+  }
+}
 header.masthead h1 {
   font-size: 2.25rem;
 }
