@@ -10113,7 +10113,7 @@ header.masthead {
 }
 
 @supports (-webkit-touch-callout: inherit) {
-  header.masterhead {
+  header.masthead {
   background-attachment: scroll;
   }
 }
