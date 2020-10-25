@@ -10259,3 +10259,15 @@ header.masthead h1 {
   from { opacity: 0; }
   to   { opacity: 1; }
 }
+
+@supports not (-webkit-touch-callout: inherit) {
+  header.masthead {
+    background-image: url("../assets/img/petrachi.png")!important;
+    background-color: #043762!important;
+    background-attachment: fixed!important;
+
+  }
+  #background_wrap{
+    display: none;
+  }
+}
