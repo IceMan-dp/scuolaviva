@@ -479,6 +479,19 @@ mark,
   height: auto;
 }
 
+.img-navbar {
+  max-width: 5%;
+  height: auto;
+  text-align: center;
+}
+
+.img-header{
+  max-width: 12%;
+  height: auto;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
