@@ -200,6 +200,14 @@ pre {
   -ms-overflow-style: scrollbar;
 }
 
+.logos-7{
+  width: 7%;
+}
+
+.logos-15{
+  width: 15%;
+}
+
 figure {
   margin: 0 0 1rem;
 }
