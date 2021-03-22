@@ -77,6 +77,8 @@ body {
   background-color: #043762;
 }
 
+
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
@@ -206,6 +208,18 @@ pre {
 
 .logos-15{
   width: 15%;
+}
+
+.green{
+  color: #28a745;
+}
+
+.orange{
+  color: #ffc107;
+}
+
+.orange-soft{
+  color: #ffeeba;
 }
 
 figure {
